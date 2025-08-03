@@ -7,4 +7,4 @@ Probably This Script Is Just For My new Trick
 ```cd Debian-12```
 ```- docker build -t debian-vm .```
 ```- docker run --privileged -p 6080:6080 -p 2221:2221 \
-    -v $PWD/vmdata:/data debian-vm```
+    -v $PWD/vmdata:/data debian-vm
