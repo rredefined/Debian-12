@@ -1,7 +1,7 @@
-Note Not This Whole Script I Own Or Created I Just change th OS (Distro)
+# Note Not This Whole Script I Own Or Created I Just change th OS (Distro)
 # - Hopingboyz Owns the 80% of the script
 # - I Own 20% Because of cloud image and changes in start.sh
-Probably This Script Is Just For My new Trick
+# Probably This Script Is Just For My new Trick
 
 # Credit - Me&itsfree&hope
 
