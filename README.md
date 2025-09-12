@@ -1,4 +1,4 @@
-
+# hoping gets 20percent credit because of start.sh
 # Probably This Script Is Just For My new Trick
 
 # Credit - Me&itsfree
