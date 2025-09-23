@@ -124,7 +124,7 @@ done
 
 # Print connection details
 echo "================================================"
-echo "Thanks For Using This Script Here Is Your Details!"
+echo "Here Is Your Details!"
 echo " 🖥️  VNC:  http://${IP}:${PORT_VNC}/vnc.html" | tee -a $LOG_FILE
 echo " 🔐 SSH:  ssh ${USERNAME}@${IP} -p ${PORT_SSH}" | tee -a $LOG_FILE
 echo " 🧾 Login: ${USERNAME} / ${PASSWORD}" | tee -a $LOG_FILE
